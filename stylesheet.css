@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    display: inline-grid ;
+    color: black;
+    cursor: auto;
+    text-decoration: auto;
+    background-color: rgb(243, 225, 255);
+}
+
+.menu{
+    padding: 0px;
+    background-color: rgb(243, 225, 255);
+    text-align: center;
+
+    
+}
+
+
+
+.foto{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 40px;
+    width: 25%;
+    border-radius: 50px;
+}
+
+h1, h2{
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+.cabecalho{
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+}
+
+.cabecalho h3{
+    color: rgb(0, 0, 0);
+    padding: 1px;
+    margin-bottom: 20px;
+}
+.cabecalho h4{
+    background-color: rgb(243, 225, 255);
+    margin-top: 40px;
+    padding: 9px;
+    color: rgb(0, 0, 0);
+    text-align: center ;
+}
+
+.apresentacao h3{
+    text-align: center   ;
+    color: rgb (0, 0, 0);
+    font-style: bold ;
+}
+
+.apresentacao {
+    
+    color: rgb (0, 0, 0);
+    font-style: bold;
+    color: rgb (0, 0, 0);
+    color: black;
+    cursor: auto;
+    display: contents;
+}
+
+
+
+div{
+    display: inline-block;
+    width: 25%;
+    
+}
+.bio { 
+    color: #000000;
+    text-align: left;
+
+
+}
+
+.contato {  
+    background-color: rgb(243, 225, 255);
+    display: flex;
+    justify-content:space-evenly;
+    
+
+}
+
+.logo { 
+    padding: 100px;
+}
+
+
+.img{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+    
+}
+.conteudo{ 
+    font-style:bold;
+    text-align: left;
+}
+
+
+
+
